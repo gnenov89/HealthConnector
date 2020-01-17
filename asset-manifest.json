@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HealthConnector/static/css/main.ceca84a1.chunk.css",
+    "main.js": "/HealthConnector/static/js/main.c11a8c16.chunk.js",
+    "main.js.map": "/HealthConnector/static/js/main.c11a8c16.chunk.js.map",
+    "runtime-main.js": "/HealthConnector/static/js/runtime-main.278199df.js",
+    "runtime-main.js.map": "/HealthConnector/static/js/runtime-main.278199df.js.map",
+    "static/js/2.d0e5ff81.chunk.js": "/HealthConnector/static/js/2.d0e5ff81.chunk.js",
+    "static/js/2.d0e5ff81.chunk.js.map": "/HealthConnector/static/js/2.d0e5ff81.chunk.js.map",
+    "index.html": "/HealthConnector/index.html",
+    "precache-manifest.cacc56e05c62f885b260ee96ca16ec68.js": "/HealthConnector/precache-manifest.cacc56e05c62f885b260ee96ca16ec68.js",
+    "service-worker.js": "/HealthConnector/service-worker.js",
+    "static/css/main.ceca84a1.chunk.css.map": "/HealthConnector/static/css/main.ceca84a1.chunk.css.map",
+    "static/js/2.d0e5ff81.chunk.js.LICENSE": "/HealthConnector/static/js/2.d0e5ff81.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.278199df.js",
+    "static/js/2.d0e5ff81.chunk.js",
+    "static/css/main.ceca84a1.chunk.css",
+    "static/js/main.c11a8c16.chunk.js"
+  ]
+}
